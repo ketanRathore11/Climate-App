@@ -1,6 +1,7 @@
-# weatherapp
+# Climate-app
 
-A new Weather application.
+An application where user can see the climate of their respective location.
+They can get the climate information of any cities all over the world by just one search.
 
 ## Getting Started
 
